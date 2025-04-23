@@ -1,0 +1,649 @@
+id,question,gold_answer,model_answer,semantic_similarity,bert_score,rouge_l_f1,eval_time_sec
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Document Name_0,"Highlight the parts (if any) of this contract related to ""Document Name"" that should be reviewed by a lawyer. Details: The name of the contract",DISTRIBUTOR AGREEMENT,,0.0,0.0,0.0,0.412506103515625
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties_0,"Highlight the parts (if any) of this contract related to ""Parties"" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",Distributor,"The parties to this contract are the Company and the Distributor. The Company is the principal and the Distributor is the agent. The Distributor is not a partner, joint venturer, or any other form of legal association or arrangement. The Distributor is not liable for the acts or omissions of the Company.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the",0.3799833655357361,0.7159600853919983,0.04761904715419502,60.548912525177
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties_1,"Highlight the parts (if any) of this contract related to ""Parties"" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",Electric City of Illinois L.L.C.,"The parties to this contract are the Company and the Distributor. The Company is the principal and the Distributor is the agent. The Distributor is not a partner, joint venturer, or any other form of legal association or arrangement. The Distributor is not liable for the acts or omissions of the Company.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the",0.03478837385773659,0.74647057056427,0.042553189262109666,60.47088861465454
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties_2,"Highlight the parts (if any) of this contract related to ""Parties"" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",Electric City of Illinois LLC,"The parties to this contract are the Company and the Distributor. The Company is the principal and the Distributor is the agent. The Distributor is not a partner, joint venturer, or any other form of legal association or arrangement. The Distributor is not liable for the acts or omissions of the Company.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the",0.17848119139671326,0.714838445186615,0.043478258931947164,60.33021426200867
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties_3,"Highlight the parts (if any) of this contract related to ""Parties"" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",Company,"The parties to this contract are the Company and the Distributor. The Company is the principal and the Distributor is the agent. The Distributor is not a partner, joint venturer, or any other form of legal association or arrangement. The Distributor is not liable for the acts or omissions of the Company.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the",0.28033655881881714,0.7286530137062073,0.04761904715419502,60.27095437049866
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties_4,"Highlight the parts (if any) of this contract related to ""Parties"" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",Electric City Corp.,"The parties to this contract are the Company and the Distributor. The Company is the principal and the Distributor is the agent. The Distributor is not a partner, joint venturer, or any other form of legal association or arrangement. The Distributor is not liable for the acts or omissions of the Company.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the Distributor's products or services.
+
+agreement, and the Company shall not be liable for any damages or losses arising from the use of the",0.13357877731323242,0.7445676922798157,0.0,60.3828489780426
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Agreement Date_0,"Highlight the parts (if any) of this contract related to ""Agreement Date"" that should be reviewed by a lawyer. Details: The date of the contract","7th day of September, 1999.",,0.0,0.0,0.0,0.14204096794128418
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Effective Date_0,"Highlight the parts (if any) of this contract related to ""Effective Date"" that should be reviewed by a lawyer. Details: The date when the contract is effective","Unless  earlier   terminated   otherwise  provided                   therein,  this  Agreement,  subject to the  commencement  date                   established  in Section 1.3,  shall be effective  immediately.",,0.0,0.0,0.0,0.13712549209594727
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Effective Date_1,"Highlight the parts (if any) of this contract related to ""Effective Date"" that should be reviewed by a lawyer. Details: The date when the contract is effective","The term of this  Agreement  shall be ten (10)                            years (the ""Term"")  which shall  commence on the date                            upon which the Company  delivers to  Distributor  the                            last Sample, as defined  hereinafter.",,0.0,0.0,0.0,0.13319706916809082
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Expiration Date_0,"Highlight the parts (if any) of this contract related to ""Expiration Date"" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?","The term of this  Agreement  shall be ten (10)                            years (the ""Term"")  which shall  commence on the date                            upon which the Company  delivers to  Distributor  the                            last Sample, as defined  hereinafter.","The contract's initial term expires on 12/31/2017.
+Expiration Date:",0.49780210852622986,0.7196424007415771,0.16666666291666676,59.208592891693115
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Renewal Term_0,"Highlight the parts (if any) of this contract related to ""Renewal Term"" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.","If Distributor                            complies with all of the terms of this Agreement, the                            Agreement  shall be  renewable on an annual basis for                            one (1) year terms for up to  another  ten (10) years                            on the same terms and conditions as set forth herein.","The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term is 10 years.
+The renewal term",0.4916355609893799,0.7039870023727417,0.04878048530636538,57.737204790115356
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Notice Period To Terminate Renewal_0,"Highlight the parts (if any) of this contract related to ""Notice Period To Terminate Renewal"" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",,,1.0,1.0,1.0,0.13538074493408203
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Governing Law_0,"Highlight the parts (if any) of this contract related to ""Governing Law"" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",This Agreement is to be construed according to the laws          of the State of Illinois.,,0.0,0.0,0.0,0.13808631896972656
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Most Favored Nation_0,"Highlight the parts (if any) of this contract related to ""Most Favored Nation"" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",,,1.0,1.0,1.0,0.13514947891235352
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Compete_0,"Highlight the parts (if any) of this contract related to ""Non-Compete"" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?",,,1.0,1.0,1.0,0.13313889503479004
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Exclusivity_0,"Highlight the parts (if any) of this contract related to ""Exclusivity"" that should be reviewed by a lawyer. Details: Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).","The Company appoints the Distributor as an  exclusive  distributor  of Products in the Market,  subject to the terms and conditions of this Agreement.",,0.0,0.0,0.0,0.13767600059509277
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Exclusivity_1,"Highlight the parts (if any) of this contract related to ""Exclusivity"" that should be reviewed by a lawyer. Details: Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).","Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.",,0.0,0.0,0.0,0.13919591903686523
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Exclusivity_2,"Highlight the parts (if any) of this contract related to ""Exclusivity"" that should be reviewed by a lawyer. Details: Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",The  Distributor  shall  not order or                   purchase Products from any source other than the Company.,,0.0,0.0,0.0,0.14016413688659668
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__No-Solicit Of Customers_0,"Highlight the parts (if any) of this contract related to ""No-Solicit Of Customers"" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?","Term of the  Agreement  and for a period of  eighteen
+
+
+
+
+
+                           (18) months thereafter,  nor will Distributor solicit                            any  customer  or  potential  customer  of Company to                            purchase a competitive product during that period.","The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the",0.4944470524787903,0.6935218572616577,0.21276595255771855,59.595879793167114
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__No-Solicit Of Customers_1,"Highlight the parts (if any) of this contract related to ""No-Solicit Of Customers"" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?","Distributor further agrees that it will not interfere                            with or  otherwise  disrupt  the  business  relations                            between the Company or nay of its  affiliates and any                            of their current or prospective customers,  suppliers                            or distributors, during the","The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both).
+The contract does not restrict the Distributor from soliciting customers or partners of the",0.559231698513031,0.6863486170768738,0.23999999520000007,59.634448289871216
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Competitive Restriction Exception_0,"Highlight the parts (if any) of this contract related to ""Competitive Restriction Exception"" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",,"The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Competitive Restriction Exception"" that should be reviewed by a lawyer.
+The answer to the question is ""Compet",0.0,0.0,0.0,59.02750515937805
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__No-Solicit Of Employees_0,"Highlight the parts (if any) of this contract related to ""No-Solicit Of Employees"" that should be reviewed by a lawyer. Details: Is there a restriction on a party’s soliciting or hiring employees and/or contractors from the  counterparty, whether during the contract or after the contract ends (or both)?","During the Term of this Agreement and for a period of                            twelve (12) months  thereafter,  the  Distributor (on                            behalf of itself,  each of its affiliates and each of                            their respective representatives) agrees that it will                            not  directly  or  indirectly  solicit  or  hire  any                            executive,  managerial  or technical  employee of the                            Company or any of its affiliates.","The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the solicitation of employees and/or contractors from the counterparty.
+The contract does not have any restrictions on the",0.4521833658218384,0.6839924454689026,0.14285713877551035,59.07228398323059
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Disparagement_0,"Highlight the parts (if any) of this contract related to ""Non-Disparagement"" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",,,1.0,1.0,1.0,0.13048028945922852
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Termination For Convenience_0,"Highlight the parts (if any) of this contract related to ""Termination For Convenience"" that should be reviewed by a lawyer. Details: Can a party terminate this  contract without cause (solely by giving a notice and allowing a waiting  period to expire)?",,"The contract is terminated for convenience. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.
+The contract is terminated for convenience because the contract is not being fulfilled by the distributor. The contract is terminated for convenience because the contract is not being fulfilled by the distributor.",0.0,0.0,0.0,58.57167077064514
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn_0,"Highlight the parts (if any) of this contract related to ""Rofr/Rofo/Rofn"" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",Distributor  shall exercise its option to                   become  exclusive  Distributor of other Products or devices by                   serving  written  notification  on Company of its  election to                   become  exclusive  distributor  within  thirty  (30) days upon                   which  Company  informed  Distributor  in writing of Company's                   intention  to  introduce   other   Products  or  devices.,,0.0,0.0,0.0,0.13598990440368652
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn_1,"Highlight the parts (if any) of this contract related to ""Rofr/Rofo/Rofn"" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?","Should Company  introduce  other products or                   devices as contemplated by recital paragraph ""A"",  Distributor                   shall  have  the  option  of  becoming   Company's   exclusive                   distributor  of such  other  Products  or  devices  within the                   Market.",,0.0,0.0,0.0,0.1353001594543457
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn_2,"Highlight the parts (if any) of this contract related to ""Rofr/Rofo/Rofn"" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?","If                   Distributor  does not exercise its option as herein  provided,                   Company may  distribute  the other  Products or devices within                   the Market itself or through other distributors.",,0.0,0.0,0.0,0.13759541511535645
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Change Of Control_0,"Highlight the parts (if any) of this contract related to ""Change Of Control"" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",,"The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control"".
+The contract does not contain any provisions related to ""Change Of Control",0.0,0.0,0.0,56.14070916175842
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Anti-Assignment_0,"Highlight the parts (if any) of this contract related to ""Anti-Assignment"" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?","In  the  event  either  party  (a)  becomes                   adjudicated insolvent,  (b) discontinues its business, (c) has                   voluntary of  involuntary  bankruptcy  proceedings  instituted                   against  it, or (d) makes an  assignment  for the  benefit  of                   creditors, the other party shall be entitled to terminate this                   Agreement effective immediately upon written notice.",,0.0,0.0,0.0,0.14570355415344238
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Anti-Assignment_1,"Highlight the parts (if any) of this contract related to ""Anti-Assignment"" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?","No  assignment  of this  Agreement  or any  right                   accruing  hereunder  shall be made by the Distributor in whole                   or in part,  without the prior written consent of the Company,                   which  consent  shall  not  be  unreasonably  withheld.",,0.0,0.0,0.0,0.13646960258483887
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Revenue/Profit Sharing_0,"Highlight the parts (if any) of this contract related to ""Revenue/Profit Sharing"" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or services?",,The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the Distributor to share revenue or profit with the Company. The contract does not require the,0.0,0.0,0.0,58.947139501571655
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Price Restrictions_0,"Highlight the parts (if any) of this contract related to ""Price Restrictions"" that should be reviewed by a lawyer. Details: Is there a restriction on the  ability of a party to raise or reduce prices of technology, goods, or  services provided?","The Company  also  reserves  the right to                            increase  or  decrease  the price  per unit  based on                            Company   wide   changes   in  unit   prices  to  all                            distributors of the Company,  provided however,  that                            any price changes, other than those based on the CPI,                            shall be uniformly applied to all distributors of the                            Products   and  shall   reasonably   applied  to  all                            distributors  of the  Products  and shall  reasonably                            reflect Company's costs of manufacturing the Products                            and/or  market  demand  for  the  Products,  provided                            further  than any increase in price based upon market                            demand   shall   not  be  so  great  as  to   deprive                            Distributor  of  its  normal  and  customary   profit                            margin.",,0.0,0.0,0.0,0.13716626167297363
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Price Restrictions_1,"Highlight the parts (if any) of this contract related to ""Price Restrictions"" that should be reviewed by a lawyer. Details: Is there a restriction on the  ability of a party to raise or reduce prices of technology, goods, or  services provided?",The prices set forth in                            Section   2.4(a)  shall  be  subject  to   adjustment                            annually  on the  first  day  of  each  Product  Year                            beginning in the calendar  year 2000 and on the first                            day of each succeeding Product Year for the remainder                            of the Term and all  renewals  of this  Agreement  in                            proportion   to  the  increase  or  decrease  in  the                            Consumer  Price Index (CPI) as compared to the CPI as                            it  existed  on the  first  day of the  Term  of this                            Agreement.,,0.0,0.0,0.0,0.13717412948608398
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment_0,"Highlight the parts (if any) of this contract related to ""Minimum Commitment"" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?","In                            order  to  maintain  the  exclusive  rights  to sell,                            lease, distribute and service Products in the Market,                            the Distributor must use all commercially  reasonably                            efforts to purchase for sale to  subdistributors  the                            following minimum quantities of the Products from the                            Company:
+
+         On the  commencement of the Term  Distributor will issue to the Company an  irrevocable  letter of credit (""LC"") in the amount of Five Hundred  Thousand Dollars  ($500,000),  the form of which is  attached  hereto  as  Exhibit  A and incorporated  herein by reference.",,0.0,0.0,0.0,0.14023661613464355
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment_1,"Highlight the parts (if any) of this contract related to ""Minimum Commitment"" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",Company's representatives will                            make themselves available three days per month in the                            first   Product   Year  to  consult  with  and  train                            Distributor.,,0.0,0.0,0.0,0.13872361183166504
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment_2,"Highlight the parts (if any) of this contract related to ""Minimum Commitment"" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?","If the  Distributor  shall fail to purchase the minimum number of units in any year, the  Distributor's  exclusive rights to sell and distribute the Product in the Market,  may at Company's sole option, be reevaluated.",,0.0,0.0,0.0,0.13715171813964844
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment_3,"Highlight the parts (if any) of this contract related to ""Minimum Commitment"" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?","A minimum of a $250,000.00  purchase  order  must be  received  by Company by the first of each month for a total (12) month  period.",,0.0,0.0,0.0,0.13512682914733887
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment_4,"Highlight the parts (if any) of this contract related to ""Minimum Commitment"" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?","(A)    375 units in the first Product Year (1999)
+
+                  (B)    750 units in the next succeeding Product Year; (2000)
+
+                  (C)    937 units in the next succeeding Product Year; (2001)
+
+                  (D)    1,171 units in the next succeeding Product Year; (2002)
+
+                  (E)    1,463 units in the next succeeding Product Year; (2003)
+
+                  (F)    1,828 units in the next succeeding Product Year; (2004)
+
+                  (G)    2,285 units in the next succeeding Product Year; (2005)
+
+                  (H)    2,856  unit each in the lat  three  years of                          the initial Term of this  Agreement  and any                          renewals thereof.",,0.0,0.0,0.0,0.13356900215148926
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Volume Restriction_0,"Highlight the parts (if any) of this contract related to ""Volume Restriction"" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",,,1.0,1.0,1.0,0.13846659660339355
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Ip Ownership Assignment_0,"Highlight the parts (if any) of this contract related to ""Ip Ownership Assignment"" that should be reviewed by a lawyer. Details: Does intellectual property created  by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",,The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property. The contract does not mention anything about the ownership of the intellectual property,0.0,0.0,0.0,58.34506177902222
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Joint Ip Ownership_0,"Highlight the parts (if any) of this contract related to ""Joint Ip Ownership"" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",,"The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for joint or shared ownership of intellectual property between the parties to the contract.
+The contract does not contain any clause providing for",0.0,0.0,0.0,59.66465663909912
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__License Grant_0,"Highlight the parts (if any) of this contract related to ""License Grant"" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?","Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.","The contract does not contain a license granted by one party to its counterparty.
+The Distributor acknowledges and agrees the except as provided by Section 1.2 of this Agreement, this Agreement will not be construed as granting by implication, estopped or otherwise any license or other right of use with respect to any present or future patent, copyright, trademark, trade name or other proprietary right owned by or licensed to the Company or any of its affiliates.
+
+agreements or duties in connection with this Agreement; (b) any negligence or fault; (c) any violation by either of them of the patent, copyright, trademark or other intellectual property rights of third parties. In addition, Company agrees to indemnify, defend and hold harmless Distributor from and against all suits, claims, obligation
+
+t create the relationship of principal and agent between the Company and the Distributor for any purpose whatsoever. This Agreement shall not be construed as constituting the Distributor and the Company as partners, joint venturers, or as creating any other form of legal association or arrangement which would",0.5994178056716919,0.6988891363143921,0.14492753274837225,59.110875368118286
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__License Grant_1,"Highlight the parts (if any) of this contract related to ""License Grant"" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?","The Company  hereby grants the  Distributor                            the right to do business  and use the name  ""Electric                            City of  Illinois""  or a  similar  variation  thereof                            (collectively   the   ""Names"")  for  use  under  this                            Agreement.","The contract does not contain a license granted by one party to its counterparty.
+The Distributor acknowledges and agrees the except as provided by Section 1.2 of this Agreement, this Agreement will not be construed as granting by implication, estopped or otherwise any license or other right of use with respect to any present or future patent, copyright, trademark, trade name or other proprietary right owned by or licensed to the Company or any of its affiliates.
+
+agreements or duties in connection with this Agreement; (b) any negligence or fault; (c) any violation by either of them of the patent, copyright, trademark or other intellectual property rights of third parties. In addition, Company agrees to indemnify, defend and hold harmless Distributor from and against all suits, claims, obligation
+
+t create the relationship of principal and agent between the Company and the Distributor for any purpose whatsoever. This Agreement shall not be construed as constituting the Distributor and the Company as partners, joint venturers, or as creating any other form of legal association or arrangement which would",0.4460538625717163,0.7102838754653931,0.20740740411961592,59.294098138809204
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Transferable License_0,"Highlight the parts (if any) of this contract related to ""Non-Transferable License"" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",,"The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to transfer the license being granted to a third party.
+The contract does not limit the ability of a party to",0.0,0.0,0.0,58.54820704460144
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Affiliate License-Licensor_0,"Highlight the parts (if any) of this contract related to ""Affiliate License-Licensor"" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?",,"The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
+The contract does not contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the lic",0.0,0.0,0.0,57.34435176849365
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Affiliate License-Licensee_0,"Highlight the parts (if any) of this contract related to ""Affiliate License-Licensee"" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",,"The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
+The contract does not contain a license grant to a",0.0,0.0,0.0,57.613710165023804
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Unlimited/All-You-Can-Eat-License_0,"Highlight the parts (if any) of this contract related to ""Unlimited/All-You-Can-Eat-License"" that should be reviewed by a lawyer. Details: Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?",,,1.0,1.0,1.0,0.14818310737609863
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Irrevocable Or Perpetual License_0,"Highlight the parts (if any) of this contract related to ""Irrevocable Or Perpetual License"" that should be reviewed by a lawyer. Details: Does the contract contain a  license grant that is irrevocable or perpetual?",,,1.0,1.0,1.0,0.13768482208251953
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Source Code Escrow_0,"Highlight the parts (if any) of this contract related to ""Source Code Escrow"" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,  insolvency, etc.)?",,,1.0,1.0,1.0,0.14056658744812012
+LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Post-Termination Services_0,"Highlight the parts (if any) of this contract related to ""Post-Termination Services"" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?","Upon the expiration or termination of                   this  Agreement,  pursuant to Section  4.1 or 4.2 hereof,  the                   Company may, at its option to be  exercised  within 30 days of                   the date of the termination of this Agreement, and in its sole                   discretion,  repurchase  any Products in the possession of the                   Distributor  at the net invoice price paid by the  Distributor                   to  the  Company  less  any  applicable  special   allowances,                   discounts, shipping or allowances for cooperative advertising.",(A) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (B) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (C) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (D) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (E) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (F) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (G) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (H) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (I) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (J) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (K) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (L) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (M) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (N) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (O) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (P) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (Q) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (R) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (S) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (T) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (U) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (V) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (W) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (X) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (Y) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (Z) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor. (AA) The Distributor shall be entitled to terminate this Agreement upon 30 days prior written notice to the Company. (BB) The Company shall be entitled to terminate this Agreement upon 30 days prior written notice to the Distributor.,0.6250392198562622,0.7133359313011169,0.14736841606648218,57.19356393814087
