@@ -1,0 +1,53 @@
+.chatbot-layout {
+  display: flex;
+  flex: 1;
+  min-height: 0; /* ensures the layout can scroll within its parent */
+}
+
+/* Right panel for the Chat and PDF preview */
+.chatbot-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  padding: 16px;
+  background-color: #f5f5f5;
+  overflow: hidden;
+}
+
+/* 
+  We'll keep each TabPanel in the DOM but hide it with absolute positioning 
+  when inactive, so the PDF never unmounts.
+*/
+.tab-panel {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* The hidden panel is just invisible and non-interactive, but still in the DOM. */
+.tab-panel.hidden {
+  visibility: hidden;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.dot-animation {
+  display: inline-block;
+  animation: dots 1s steps(5, end) infinite;
+}
+
+@keyframes dots {
+  0%   { content: ""; }
+  20%  { content: "."; }
+  40%  { content: ".."; }
+  60%  { content: "..."; }
+  80%  { content: "...."; }
+  100% { content: "....."; }
+}
